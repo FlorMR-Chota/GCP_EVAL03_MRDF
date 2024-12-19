@@ -13,6 +13,6 @@ namespace EVALUACION03
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
-        //deysi flor Muñoz
+        //DEYSI Flor
     }
 }
